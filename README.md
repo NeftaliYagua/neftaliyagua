@@ -11,7 +11,7 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
     * [Coderic, S.A.](/coderic)
     * [MultiCode, S.A.S](/multicodesas)
     * [Mambo House](/mambohouse) 
-    * [Sistemas de Venezuela](/SDVSA)
+    * [E-Misión](/e-mision)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
