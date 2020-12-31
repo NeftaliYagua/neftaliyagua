@@ -11,7 +11,9 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
     * [Coderic, S.A.](/coderic)
     * [MultiCode, S.A.S](/multicodesas)
     * [Mambo House](/mambohouse) 
+    * [DomBellas](/DomBellas)
     * [E-Misión](/e-mision)
+    * [Free & Flex](/Free-Flex)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
