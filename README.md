@@ -8,20 +8,20 @@ Me especializo en Ingeniería tanto como en arquitectura, el codigo para mi es u
 Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que participaran, entre ellas mencionaré las más importante para mi:
 
 - 🔭 Estoy trabajando para ...
-    * [Coderic, S.A.](/coderic)
-    * [MultiCode, S.A.S](/multicodesas)
-    * [Mambo House](/mambohouse) 
-    * [DomBellas](/DomBellas)
-    * [E-Misión](/e-mision)
-    * [Free & Flex](/Free-Flex)
+    * [Coderic, S.A.](https://github.com/coderic)
+    * [MultiCode, S.A.S](https://github.com/multicodesas)
+    * [Mambo House](https://github.com/mambohouse) 
+    * [DomBellas](https://github.com/DomBellas)
+    * [E-Misión](https://github.com/e-mision)
+    * [Free & Flex](https://github.com/Free-Flex)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
 - 🤔 Estoy buscando colaboradores para los siguientes proyectos:
-    * [Laravel Latino América](/laravel-latam)
-    * [Red Cuadrangular](/redcuadrangular)
-    * [Prodaric](/prodaric) 
-    * [Sistemas de Venezuela](/SDVSA)
+    * [Laravel Latino América](https://github.com/laravel-latam)
+    * [Red Cuadrangular](https://github.com/redcuadrangular)
+    * [Prodaric](https://github.com/prodaric) 
+    * [Sistemas de Venezuela](https://github.com/SDVSA)
 - 💬 Si quieres saber acerca de mí, la mejor manera es el buscador ...
 - 📫 ¿Cómo llegar a mi?: Hay tres maneras sencillas de llegar a mi
     * MMe puedes enviar un correo electrónico a despacho@neftaliyagua.com o neftali.yagua@gmail.com
