@@ -17,9 +17,9 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... -->
-- 🤔 Estoy buscando colaboradores para los siguientes proyectos:
+- 🤔 Estoy buscando colaboradores para los siguientes proyectos abiertos:
     * [Laravel Latino América](https://github.com/laravel-latam)
-    * [Red Cuadrangular](https://github.com/redcuadrangular)
+    * [La Iglesia Cuadrangular](https://github.com/laiglesiacuadrangular)
     * [Prodaric](https://github.com/prodaric) 
     * [Sistemas de Venezuela](https://github.com/SDVSA)
 - 💬 Si quieres saber acerca de mí, la mejor manera es el buscador ...
