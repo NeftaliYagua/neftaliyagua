@@ -25,5 +25,6 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
 - 💬 Si quieres saber acerca de mí, la mejor manera es el buscador ...
 - 📫 ¿Cómo llegar a mi?: Hay tres maneras sencillas de llegar a mi
     * MMe puedes enviar un correo electrónico a despacho@neftaliyagua.com o neftali.yagua@gmail.com
-    * Me puedes escribir, o llamar a mi número personal +573132389671 y a Coderic, S.A. al +57 (4) 329-54 86
+    * Me puedes escribir, o llamar a mi número personal +573132389671
+    * Me puedes escribir a Coderic, S.A. al +57 (4) 329-54 86
 
