@@ -9,7 +9,6 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
 
 - 🔭 Estoy trabajando para ...
     * [Coderic, S.A.](https://github.com/coderic)
-    * [MultiCode, S.A.S](https://github.com/multicodesas)
     * [Mambo House](https://github.com/mambohouse) 
     * [DomBellas](https://github.com/DomBellas)
     * [E-Misión](https://github.com/e-mision)
