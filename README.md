@@ -10,6 +10,7 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
 - 🔭 Estoy trabajando para ...
     * [Coderic, S.A.](https://github.com/coderic)
     * [Mambo House](https://github.com/mambohouse) 
+    * [Tollring Pty Ltd](https://tollring.com/)
     * [E-Misión](https://github.com/e-mision)
     * [Free & Flex](https://github.com/Free-Flex)
 <!--
@@ -22,7 +23,8 @@ Tengo muchas ideas para compartir con ustedes, y en las que me gustaría que par
     * [Sistemas de Venezuela](https://github.com/SDVSA)
 - 💬 Si quieres saber acerca de mí, la mejor manera es el buscador ...
 - 📫 ¿Cómo llegar a mi?: Hay tres maneras sencillas de llegar a mi
-    * MMe puedes enviar un correo electrónico a despacho@neftaliyagua.com o neftali.yagua@gmail.com
+    * Me puedes enviar un correo electrónico a despacho@neftaliyagua.com o neftali.yagua@gmail.com
     * Me puedes escribir, o llamar a mi número personal +573132389671
     * Me puedes escribir a Coderic, S.A. al +57 (4) 329-54 86
+    * Me puedes contratar a través de [freelancer.com/neftaliyagua](https://www.freelancer.com.co/hireme/neftaliyagua)
 
